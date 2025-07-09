@@ -51,6 +51,8 @@ basicCC <- ggplot(kr3,aes(x=result,y=prcnt*100,fill=sex))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
+When you look at the chart percentage you can see that the males are dying more. about 65% of the dead column is made up of males. 
+
 ## Numerical results
 
 
