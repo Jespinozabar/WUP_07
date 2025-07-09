@@ -61,6 +61,8 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+When looking at the numerical results we can see that 64 out of 100 males are dead and and 36 out of 100 females are dead. with this we can see that there are more fales dead than females. 
+
 ## Inferential results 
 
 
