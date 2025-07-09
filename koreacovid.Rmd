@@ -71,6 +71,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+based off of this we can see that covid is killing more males than females and this was seen statistically from the results.
 
 ## Conclusions
 
