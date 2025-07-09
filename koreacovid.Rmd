@@ -65,7 +65,11 @@ When looking at the numerical results we can see that 64 out of 100 males are de
 
 ## Inferential results 
 
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 
 ## Conclusions
