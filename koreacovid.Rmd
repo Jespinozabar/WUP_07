@@ -75,3 +75,4 @@ based off of this we can see that covid is killing more males than females and t
 
 ## Conclusions
 
+After testing all of the tests we came to the conclusion that in percentage wise there was more females in the alive section than males. also percentage wise males dominated the dead section.This showed that the death toll was not equivalent between males and females. Therefore there was more death seen in males than females.
