@@ -55,6 +55,11 @@ When you look at the chart percentage you can see that the males are dying more.
 
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
 
 ## Inferential results 
 
